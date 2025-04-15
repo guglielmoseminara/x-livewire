@@ -1,5 +1,5 @@
 {
-    "name": "titonova/x-livewire",
+    "name": "guglielmoseminara/x-livewire",
     "description": "A package that allows you to use livewire components the same way you would use blade components. Ie, giving it slots, atttributes etc",
     "keywords": [
         "titonova",
